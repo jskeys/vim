@@ -1,0 +1,6 @@
+[submodule "gruvbox"]
+	path = gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "vim-better-whitespace"]
+	path = vim-better-whitespace
+	url = https://github.com/ntpeters/vim-better-whitespace.git

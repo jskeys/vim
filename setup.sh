@@ -1,3 +1,7 @@
-rm -rf gruvbox
-git clone https://github.com/morhetz/gruvbox.git
-cp -r gruvbox/colors ~/.vim/
+# make ~/.vim/plugin
+
+# get the latest gruvbox
+cp -rv gruvbox/colors ~/.vim/
+
+# clone vim-better-whitespace
+cp -r vim-better-whitespace/plugin ~/.vim/
