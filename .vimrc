@@ -5,12 +5,14 @@ endif
 
 color gruvbox
 syntax on
-set number
-set background=dark
 
+set background=dark
+set expandtab
+set indentexpr=
+set noautoindent
 set nocindent
 set nosmartindent
-set noautoindent
-set indentexpr=
+set number
+
 filetype indent off
 filetype plugin indent off
